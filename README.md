@@ -1,4 +1,4 @@
-f# Pedro Vitor
+# Pedro Vitor
 
 Olá! 👋 Sou o Pedro Vitor, um entusiasta da tecnologia apaixonado por programação e desenvolvimento de software.
 
@@ -22,4 +22,3 @@ Sou um estudante de <strong>Analise e Desenvolvimento de Sistemas</strong> e est
   <a href = "mailto:pedrowayne1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-vitor77" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-![snake gif](https://github.com/PedroKaneki/PedroKaneki/blob/output/github-contribution-grid-snake.svg)
